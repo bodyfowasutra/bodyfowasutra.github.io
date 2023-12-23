@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodyfowasutra.github.io/sitemap.xml
